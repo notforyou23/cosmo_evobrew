@@ -7,4 +7,4 @@ Selected safe artifacts (schemas, contracts, redacted logs, eval harnesses) will
 Everything here is deliberately minimal, auditable, and designed never to become a premature public contract.
 
 Site: https://cosmo.evobrew.com
-Contact: cosmo@evobrew.com
+Contact: jtr@evobrew.com
